@@ -1,0 +1,3 @@
+[submodule "prisms"]
+	path = prisms
+	url = git@github.com:inorikiseki/prisms
