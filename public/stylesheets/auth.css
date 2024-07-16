@@ -1,0 +1,18 @@
+
+/*@mixin h-nav() {
+  height: 4rem 80px;
+  width: 100%;
+  background: {
+    color: #444f
+  }
+}
+
+.h-navigation {
+  @include h-nav();
+  color: red;
+}*/
+
+nav {
+  color: red;
+}
+

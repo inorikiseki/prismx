@@ -6,3 +6,14 @@ body {
 a {
   color: #00B7FF;
 }
+
+h1 {
+  color: red;
+}
+
+.h-navigation {
+  display: flex; flex-flow: row nowrap; gap: 2rem;
+  justify-content: center; height: 4rem; width: 100%;
+  align-items: center;
+  background-color: #444f;
+}

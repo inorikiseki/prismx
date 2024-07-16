@@ -23,7 +23,7 @@ To generate the initial project, you should:
 
 ## Debugging & Inspection
 
-- Use tools like `curl`(Check [curl basics](./notes/curl_usage.md)) when your GUI is not set up to validate the connection and
+- Use tools like `curl`(Check [curl basics](prisms/notes/curl_usage.md)) when your GUI is not set up to validate the connection and
 service. 
 > For instance, after your server is running:  
 > 

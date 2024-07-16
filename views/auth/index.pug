@@ -1,0 +1,11 @@
+extends layout
+block content
+    h1 Authorization
+    include ../nav
+    .auth-nav
+        a.login-link(href='/auth/login')
+            button Login
+        a.register-link(href='/auth/register')
+            button Register
+        a.forget-link
+            button Forget Password
